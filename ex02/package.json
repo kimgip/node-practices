@@ -1,0 +1,13 @@
+{
+  "name": "ex02",
+  "version": "1.0.0",
+  "description": "node server programming example\r 1) app01.js\r 2) app02.js",
+  "main": "index.js",
+  "scripts": {
+    "start1": "node app01",
+    "start2": "node app02"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

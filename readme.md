@@ -40,3 +40,6 @@ $ npm un -g gulp        [전역]
 ```
 
 5. Modules
+    1) 코어 모듈: node에서 제공하는 모듈(fs, os, process, http, ...)
+    2) npm 모듈: npm을 통해서 node_module에 설치하고 사용하는 모듈
+    3) 파일 모듈: 파일 경로로 불러온 모듈안에 함수나 객체를 사용
